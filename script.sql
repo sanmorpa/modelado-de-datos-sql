@@ -7,7 +7,7 @@
 
 -- Borrado y Creación del esquema de trabajo --
 DROP SCHEMA IF EXISTS sandra_moreno_palacios CASCADE;
-CREATE SCHEMA sandra_moreno_palacios AUTHORIZATION mkfdlyfp;
+CREATE SCHEMA sandra_moreno_palacios AUTHORIZATION oodhuafv;
 
 -- Creación de tablas --
 
